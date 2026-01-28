@@ -12,3 +12,5 @@ foto de perfil para cada contato.
 - sqflite v2.4.2
 - url_launcher v6.3.2
 - image_picker v1.1.2
+
+#### Nota: Este projeto foi originalmente desenvolvido anteriormente e repostado nesta conta após perda de acesso à conta anterior.
